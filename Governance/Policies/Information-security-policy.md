@@ -12,49 +12,38 @@ This policy applies to all TujaePay employees, contractors, vendors, and third p
    
 TujaePay is committed to:
 
-    * Protecting sensitive and confidential information
-
-    * Meeting regulatory and contractual security requirements
-
-    * Reducing information security risks to an acceptable level
-
-    * Ensuring business continuity and operational resilience
+-   Protecting sensitive and confidential information
+-    Meeting regulatory and contractual security requirements
+-    Reducing information security risks to an acceptable level
+-    Ensuring business continuity and operational resilience
 
 **4. Data Classification**
    
 TujaePay data is classified as:
 
-    * Public: Approved for public disclosure
-
-    * Internal: Business use only
-
-    * Confidential: Sensitive business or customer data
-
-    * Restricted: Highly sensitive data such as PII or payment data
+-   Public: Approved for public disclosure
+-  Internal: Business use only
+- Confidential: Sensitive business or customer data
+- Restricted: Highly sensitive data such as PII or payment data
 
 Security controls must be applied based on data classification.
 
 **5. Roles and Responsibilities**
 
-    * Executive Management: Provides oversight and resources
+-   Executive Management: Provides oversight and resources
+-   GRC / Security Team: Maintains security policies and risk management
+-    Employees: Comply with security policies and report incidents
+-    Third Parties: Must meet TujaePay security requirements
 
-    * GRC / Security Team: Maintains security policies and risk management
-
-    * Employees: Comply with security policies and report incidents
-
-    *Third Parties: Must meet TujaePay security requirements
 
 **6. Security Controls**
    
 TujaePay implements administrative, technical, and physical controls including:
 
-    * Access controls and authentication
-
-    * Logging and monitoring
-
-    * Encryption of sensitive data
-
-    * Security awareness training
+-   Access controls and authentication
+-  Logging and monitoring
+-  Encryption of sensitive data
+-  Security awareness training 
 
 **7. Compliance**
 
