@@ -6,7 +6,7 @@ This policy establishes a structured approach for responding to information secu
 
 **2. Scope**
 
-This policy applies to all security incidents involving AtlasPay systems, data, or services.
+This policy applies to all security incidents involving TujaePay systems, data, or services.
 
 **3. Incident Definition**
 
@@ -19,7 +19,7 @@ A security incident includes:
 
 **4. Incident Response Phases**
 
-AtlasPay follows these phases:
+TujaePay follows these phases:
 
 -  Identification
 -  Containment
