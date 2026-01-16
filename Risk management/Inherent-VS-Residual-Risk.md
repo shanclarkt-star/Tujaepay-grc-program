@@ -1,7 +1,7 @@
 # Inherent vs Residual Risk
 
 ## Purpose
-This document explains how AtlasPay differentiates between inherent risk and residual risk as part of its enterprise risk management (ERM) program.
+This document explains how TujaePay differentiates between inherent risk and residual risk as part of its enterprise risk management (ERM) program.
 
 ## Definitions
 
@@ -46,7 +46,7 @@ Unauthorized access to production systems containing customer data.
 ---
 
 ## Risk Acceptance
-Residual risks exceeding AtlasPay’s defined risk tolerance must be reviewed and approved by executive management.
+Residual risks exceeding TujaePay’s defined risk tolerance must be reviewed and approved by executive management.
 
 ## Review Cycle
 Inherent and residual risks are reviewed annually or when significant changes occur.
