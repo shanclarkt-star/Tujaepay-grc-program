@@ -16,7 +16,7 @@
   - High
 
 Description of Services:
-(Describe what the vendor provides and how it supports AtlasPay)
+(Describe what the vendor provides and how it supports TujaePay)
 
 Description of Data Access:
 (Describe the type of data accessed, stored, or processed by the vendor)
