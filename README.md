@@ -1,14 +1,20 @@
-# Tujaepay-grc-program
+# TujaePay GRC Program
 
-This repository documents a fictional end-to-end Governance, Risk, and Compliance (GRC) for a mid-size FinTech SaaS organization
+This repository documents a fictional end-to-end Governance, Risk, and Compliance (GRC) program
+for a mid-size FinTech SaaS organization.
 
-## Scope
-Governance and policy management
-Enterprise risk assessments
-NIST CSF, ISO 27001, and SOC 2 alignment
-Third-party risk management
-Internal audits and incident response
+## Program Scope
+- Governance and policy development
+- Enterprise risk management
+- NIST CSF, ISO 27001, and SOC 2 control mapping
+- Third-party vendor risk management
+- Internal audit planning and reporting
+- Incident response tabletop exercises
 
-## Tools
-Github for documentation
-Notion for risk tracking
+## Objective
+This project demonstrates practical, real-world GRC and IT audit capabilities aligned with
+industry frameworks and regulatory expectations.
+
+## Tools Used
+- GitHub for documentation and audit artifacts
+- Notion for risk tracking and GRC program management
