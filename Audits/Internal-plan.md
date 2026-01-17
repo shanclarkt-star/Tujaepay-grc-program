@@ -1,7 +1,7 @@
 # Internal Audit Plan
 
 ## 1. Purpose
-The purpose of this Internal Audit Plan is to define AtlasPay’s approach to evaluating the
+The purpose of this Internal Audit Plan is to define TujaePay’s approach to evaluating the
 effectiveness of governance, risk management, and internal controls. The plan supports
 management assurance, regulatory expectations, and continuous improvement.
 
