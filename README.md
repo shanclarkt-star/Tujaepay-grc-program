@@ -17,4 +17,4 @@ industry frameworks and regulatory expectations.
 
 ## Tools Used
 - GitHub for documentation and audit artifacts
-- Notion for risk tracking and GRC program management
+
